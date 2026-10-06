@@ -25,7 +25,7 @@
 ---
 
 ### 📌 SEO & Industry Overview 🔍
-Welcome to the definitive curated directory of **application performance monitoring (APM) tools**, **distributed tracing backends**, **OpenTelemetry collector pipelines**, and **cloud-native observability frameworks**. Modern microservice architectures demand end-to-end telemetry across metrics, logs, traces, and continuous profiling. Whether you are evaluating enterprise SaaS solutions (*Datadog APM*, *New Relic*, *Dynatrace*, *Splunk Observability*) or deploying self-hosted open-source stacks (*SigNoz*, *Grafana Tempo*, *Jaeger*, *Apache SkyWalking*, *OpenObserve*), this repository provides comprehensive pricing comparisons, market valuations, and star counts.
+Welcome to the definitive curated directory of **application performance monitoring (APM) tools**, **distributed tracing backends**, **OpenTelemetry collector pipelines**, and **cloud-native observability frameworks**. Modern microservice architectures demand end-to-end telemetry across metrics, logs, traces, and continuous profiling. Whether you are evaluating enterprise SaaS solutions (*Datadog APM*, *New Relic*, *Dynatrace*, *Splunk Observability*) or deploying self-hosted open-source stacks (*SigNoz*, *Grafana Tempo*, *Jaeger*, *Apache SkyWalking*, *OpenObserve*), this repository provides comprehensive pricing comparisons, market valuations, and Stars_Counts.
 
 ---
 
@@ -63,7 +63,7 @@ Welcome to the definitive curated directory of **application performance monitor
 
 ## 🔓 Open-Source Observability Projects 🌐
 
-*Sorted by GitHub Stars Count (Descending)* 🌟
+*Sorted by GitHub_Stars_Count (Descending)* 🌟
 
 - **[Grafana Loki](https://github.com/grafana/loki)** [![Stars](https://img.shields.io/github/stars/grafana/loki?style=social&color=white)](https://github.com/grafana/loki/stargazers)  
   **Like Prometheus, but for logs**, AGPL-3.0 licensed. ~26k+ stars. Cost-efficient log aggregation system that indexes metadata rather than full payload text. Deeply integrated with Grafana and Tempo for full-stack telemetry correlation. 📝
@@ -121,7 +121,7 @@ Contributions are welcome! Follow these steps to submit new APM platforms or ope
 
 1. 🍴 **Fork** the repository.
 2. 📝 **Add/edit** entries in `README.md` maintaining table/list structure and formatting.
-3. 🔗 Include project title, official website/GitHub link, exact star count badge, license, and brief description.
+3. 🔗 Include project title, official website/GitHub link, exact Stars_Count badge, license, and brief description.
 4. 🚀 Submit a **Pull Request** with a descriptive summary of your changes.
 
 ---
